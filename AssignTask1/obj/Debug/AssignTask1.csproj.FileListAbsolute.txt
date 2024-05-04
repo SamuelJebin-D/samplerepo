@@ -1,0 +1,7 @@
+C:\Users\sams3\Desktop\Hexaware\Assigments\AssignTask1\bin\Debug\AssignTask1.exe.config
+C:\Users\sams3\Desktop\Hexaware\Assigments\AssignTask1\bin\Debug\AssignTask1.exe
+C:\Users\sams3\Desktop\Hexaware\Assigments\AssignTask1\bin\Debug\AssignTask1.pdb
+C:\Users\sams3\Desktop\Hexaware\Assigments\AssignTask1\obj\Debug\AssignTask1.csproj.AssemblyReference.cache
+C:\Users\sams3\Desktop\Hexaware\Assigments\AssignTask1\obj\Debug\AssignTask1.csproj.CoreCompileInputs.cache
+C:\Users\sams3\Desktop\Hexaware\Assigments\AssignTask1\obj\Debug\AssignTask1.exe
+C:\Users\sams3\Desktop\Hexaware\Assigments\AssignTask1\obj\Debug\AssignTask1.pdb

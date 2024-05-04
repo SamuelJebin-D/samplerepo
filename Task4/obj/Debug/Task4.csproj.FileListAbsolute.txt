@@ -1,0 +1,7 @@
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task4\bin\Debug\Task4.exe.config
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task4\bin\Debug\Task4.exe
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task4\bin\Debug\Task4.pdb
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task4\obj\Debug\Task4.exe
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task4\obj\Debug\Task4.pdb

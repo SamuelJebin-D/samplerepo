@@ -1,0 +1,7 @@
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task3\bin\Debug\Task3.exe.config
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task3\bin\Debug\Task3.exe
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task3\bin\Debug\Task3.pdb
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task3\obj\Debug\Task3.exe
+C:\Users\sams3\Desktop\Hexaware\Assigments\Task3\obj\Debug\Task3.pdb
